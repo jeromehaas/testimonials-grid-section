@@ -4,10 +4,11 @@ This is a challenge from FrontendMentor.
 You can find the description of the task here:   
 [frontendmentor.io](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7/hub/testimonials-grid-section-7pqC-F_gbS)
 
-<img src="public/assets/readme/preview.png" width="700" style="margin: 20px 0" />
+<img src="./assets/readme/preview.png" width="700" style="margin: 20px 0" />
 
 My goal in this challenge was to:
-- Make use of a lottie in NextJS
+- Complete the challenge as pragmatic as possible and under one 
+- Write some old plain CSS
 
 ### How to run
 ```bash
